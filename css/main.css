@@ -1,0 +1,80 @@
+
+#titles{
+	width:1080px;
+	height:150px;
+}
+h1{
+	margin-left: 464px;
+	font-size: 54px;
+	font-family: "Comic Sans MS", serif;
+	margin-top:50px;
+}
+h3, h4{
+	margin-left: 679px;
+	font-size: 26px;
+	font-family: "Comic Sans MS", serif;
+	margin-top:29px;
+}
+h4{
+	font-size:15px;
+	font-weight: lighter;
+	margin-left: 545px;
+}
+.list{
+	width:1080px;
+	margin-bottom: 23px;
+}
+#addItem{
+	left:525px;
+	position:relative;
+	width:396px;
+	height:45px;
+	border-radius: 6px;
+	background-color: #D3CBCB;
+	border:1px;
+	font-size: 22px;
+	letter-spacing: 3.5px;
+	font-family: "Marker Felt", sans-serif;
+	text-align: center;
+	margin-top: 30px;
+}
+::-webkit-input-placeholder {
+   color: #5E5E5E;
+   text-align: center;
+   font-family: "Marker Felt", sans-serif;
+   font-size: 15px;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #5E5E5E;
+   text-align: center;
+   font-family: "Marker Felt", sans-serif;
+   font-size: 15px;
+}
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #5E5E5E;
+   text-align: center;
+   font-family: "Marker Felt", sans-serif;
+   font-size: 15px;
+}
+:-ms-input-placeholder {  
+  color: #5E5E5E;
+   text-align: center;
+   font-family: "Marker Felt", sans-serif;
+   font-size: 15px;
+}
+
+.stuff{
+	margin-top: 17px;
+	position:relative;
+	left:695px;
+	font-family: "Marker Felt";
+	font-size: 25px;
+}
+.itemsCrossed{
+	text-decoration: line-through;
+	margin-top: 17px;
+	position:relative;
+	left:695px;
+	font-family: "Marker Felt";
+	font-size: 25px;
+}
